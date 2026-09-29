@@ -1,0 +1,6 @@
+{
+  "name": "PLEX - Media & Solutions Platform",
+  "description": "High-performance order optimization, review tasks, reward snatching, and media rating platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
